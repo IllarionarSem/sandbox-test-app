@@ -1,0 +1,22 @@
+{
+    "home": {
+        "welcome": "Добро пожаловать!",
+        "goToRecords": "Перейти к записям"
+    },
+    "records": {
+        "title": "Список записей",
+        "add": "Добавить запись",
+        "form": {
+            "titlePlaceholder": "Название",
+            "descriptionPlaceholder": "Описание",
+            "save": "Сохранить",
+            "cancel": "Отменить"
+        },
+        "table": {
+            "title": "Название",
+            "description": "Описание",
+            "actions": "Действия",
+            "delete": "Удалить"
+        }
+    }
+}

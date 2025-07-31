@@ -1,0 +1,22 @@
+{
+    "home": {
+        "welcome": "Welcome!",
+        "goToRecords": "Go to Records"
+    },
+    "records": {
+        "title": "Record List",
+        "add": "Add Record",
+        "form": {
+            "titlePlaceholder": "Title",
+            "descriptionPlaceholder": "Description",
+            "save": "Save",
+            "cancel": "Cancel"
+        },
+        "table": {
+            "title": "Title",
+            "description": "Description",
+            "actions": "Actions",
+            "delete": "Delete"
+        }
+    }
+}
