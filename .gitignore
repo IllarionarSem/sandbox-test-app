@@ -60,3 +60,9 @@ test-output/
 # ------------------------
 dump/
 data/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
