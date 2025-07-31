@@ -1,0 +1,62 @@
+# ------------------------
+# Node.js & Frontend
+# ------------------------
+node_modules/
+build/
+dist/
+.cache/
+.tmp/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ------------------------
+# Environment files
+# ------------------------
+.env
+.env.*.local
+!.env.example
+
+# ------------------------
+# Docker
+# ------------------------
+.docker/
+docker-compose.override.yml
+
+# ------------------------
+# Logs & Coverage
+# ------------------------
+logs/
+coverage/
+nyc_output/
+lcov-report/
+*.log.*
+
+# ------------------------
+# OS-specific
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------
+# Editor & IDEs
+# ------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------
+# Allure / Test reports (если используешь)
+# ------------------------
+allure-results/
+allure-report/
+test-output/
+
+# ------------------------
+# Backend-specific (Mongo/Mongoose)
+# ------------------------
+dump/
+data/

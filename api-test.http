@@ -1,0 +1,14 @@
+### Get all records
+GET http://localhost:5000/api/records
+
+### Add new record
+POST http://localhost:5000/api/records
+Content-Type: application/json
+
+{
+  "title": "My test record",
+  "description": "Created from REST Client"
+}
+
+### Delete record by ID
+DELETE http://localhost:5000/api/records/6883ba0f0e328a10d0500c62
